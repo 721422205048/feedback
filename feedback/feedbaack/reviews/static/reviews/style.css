@@ -1,0 +1,22 @@
+body{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: o;
+}
+
+form{
+    margin: auto;
+    max-width: 90px;
+    padding-left: 25px;
+    border-radius: 50px;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 20px;
+    width: auto;
+    background-color: rgb(35, 103, 148);
+    color: #fff !important;
+    border: none;
+    border-radius: 10px;
+
+}
